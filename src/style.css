@@ -1,0 +1,14 @@
+:root {
+--fondo: #ffffff;
+--texto: #222222;
+--primary: turquoise;
+--card: #f3f3f3;
+}
+
+body {
+margin: 0;
+padding: 0;
+background: var(--fondo);
+color: var(--texto);
+font-family: "Segoe UI", sans-serif;
+}
